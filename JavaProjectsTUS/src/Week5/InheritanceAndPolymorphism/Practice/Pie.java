@@ -11,6 +11,7 @@ public class Pie {
         System.out.println(((Male) h2).show());
 
         Human h3 = new Female();
+        System.out.println(h3);
         System.out.println(h);
     }
 
