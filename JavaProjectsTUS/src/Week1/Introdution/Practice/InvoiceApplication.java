@@ -42,7 +42,7 @@ public class InvoiceApplication {
         // Welcome the user to the program
         System.out.println("Welcome to the Invoice Total Calculator\n");
         System.out.printf("Subtotal:                  %.2f%n ",  subtotal);
-        System.out.printf("Discount percent:          %.2f%n ",  discountPercent);
+        System.out.printf("Discount percent:          %.2f%%%n ",  discountPercent);
         System.out.printf("Discount amount:           %.2f%n ",  discountAmount);
         System.out.printf("Total:                     %.2f%n ",  total);
 
